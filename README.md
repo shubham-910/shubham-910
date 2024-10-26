@@ -1,5 +1,5 @@
 # Hi there 👋🏽, I'm Shubham
-[![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)]()      
+[![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/shubham-910/shubham-910/blob/main/ShubhamResumeCO.pdf)      
 
 ## Where to find me 📨 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-jethva-835b771b1/)
