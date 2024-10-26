@@ -65,9 +65,9 @@
 ### ☁️ Cloud 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🧪 Testing
+### 🛠 Code Quality & Analysis
+![DesigniteJava](https://img.shields.io/badge/DesigniteJava-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
 
 ### 🔧 DevOps & CI/CD Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
