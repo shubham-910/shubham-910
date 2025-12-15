@@ -1,8 +1,7 @@
 # Hi, I’m Shubham 👋
-### **Passionate Software Developer · Full-Stack & Cloud Engineer**
+### **Passionate Software Developer · Full-Stack & Cloud Engineer | agentic AI & Multi Agent Systems**
 
 I build **scalable, maintainable, production-ready applications** and reliable cloud infrastructure. I focus on **automation, test-driven development, and clean code** to deliver resilient solutions that solve real problems.
-
 ---
 
 ## 🔭 About Me & My Value
@@ -11,6 +10,8 @@ I am driven by a commitment to quality and efficiency:
 * **Experienced** in building high-performance web applications and cloud architectures.
 * Strong emphasis on **automation, TDD/BDD, and developer experience**.
 * I enjoy designing systems that are **easy to deploy, monitor, and scale** in production.
+
+In parallel, I am actively working on **AI/ML, Agentic AI, and multi-agent systems**, focusing on how intelligent agents can automate workflows, enhance decision-making, and integrate seamlessly into production grade software systems.
 
 ---
 
@@ -34,9 +35,11 @@ I provide full lifecycle engineering expertise, bridging development and operati
 * **Backend:** Spring Boot, FastAPI, Django, Laravel
 * **Frontend:** React, Vue, Redux, GraphQL
 * **Cloud & Infra:** AWS (EC2, Lambda, DynamoDB, RDS), Azure, Terraform, CloudFormation
+* **AI / ML:** LLM APIs, Prompt Engineering, Agentic AI frameworks, Multi-Agent Systems
 * **DevOps:** Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD
 * **Databases & Cache:** PostgreSQL, MySQL, Redis
 * **Testing & QA:** Pytest, Jest, Cypress, JUnit, PHPUnit
+* **AI IDEs:** Cursor, Google Antigravity, Qoder 
 
 ---
 
@@ -48,6 +51,7 @@ My approach ensures reliable delivery and maintainable codebases:
 2.  **Automation:** Leveraging CI/CD for fast, repeatable, and automated delivery.
 3.  **Resilience:** Prioritizing observability (metrics, logging) and automatic recovery mechanisms.
 4.  **Collaboration:** Advocating for Agile methodologies, peer review, and continuous improvement.
+5.  **Responsible AI Engineering:** Designing AI-enabled systems with clear evaluation, monitoring, and human-in-the-loop safeguards.
 
 ---
 
