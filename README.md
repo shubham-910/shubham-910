@@ -27,6 +27,7 @@ I provide full lifecycle engineering expertise, bridging development and operati
 | **DevOps & CI/CD** | Implement CI/CD pipelines, containerization, and orchestration with **Docker and Kubernetes**. |
 | **Frontend** | Build performant and accessible frontends with **JavaScript/TypeScript, React, Vue,** and Redux. |
 | **Reliability & QA**| Improve system reliability with monitoring, observability, and automated testing (**Pytest, Cypress, JUnit**). |
+| **AI implementation**| Implementing LLM APIs, and intelligent workflows to enhance automation and decision-making in production systems. |
 
 ---
 
