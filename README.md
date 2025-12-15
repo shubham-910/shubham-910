@@ -1,11 +1,11 @@
 # Hi, I’m Shubham 👋
-### **Passionate Software Developer · Full-Stack & Cloud Engineer . Agentic AI & Multi Agent Systems**
+### **Passionate Software Developer · Full-Stack, Software & Cloud Engineer . Agentic AI & Multi Agent Systems**
 
 I build **scalable, maintainable, production-ready applications** and reliable cloud infrastructure. I focus on **automation, test-driven development, and clean code** to deliver resilient solutions that solve real problems.
 
 ---
 
-## 🔭 About Me & My Value
+## 🔭 About Me
 I am driven by a commitment to quality and efficiency:
 
 * **Experienced** in building high-performance web applications and cloud architectures.
@@ -22,25 +22,25 @@ I provide full lifecycle engineering expertise, bridging development and operati
 
 | Area | Contribution |
 | :--- | :--- |
-| **Backend & APIs** | Design and implement robust backends using **Java (Spring Boot), Python (FastAPI/Django),** and PHP (Laravel). |
-| **Cloud & Infra** | Architect and automate infrastructure on **AWS (EC2, Lambda, DynamoDB)** and Azure, managed via **Terraform** & CloudFormation. |
+| **Backend & APIs** | Design and implement robust backends using **Java (Spring Boot), Python (FastAPI/Django),** and **PHP (Laravel, Adobe Commerce (Magento))**. |
+| **Cloud & Infra** | Architect and automate infrastructure on **AWS (EC2, Lambda, DynamoDB)** and **Azure**, managed via **Terraform** & **CloudFormation**. On-prem infrastructure maintainance with **LAMP stack**. |
 | **DevOps & CI/CD** | Implement CI/CD pipelines, containerization, and orchestration with **Docker and Kubernetes**. |
-| **Frontend** | Build performant and accessible frontends with **JavaScript/TypeScript, React, Vue,** and Redux. |
-| **Reliability & QA**| Improve system reliability with monitoring, observability, and automated testing (**Pytest, Cypress, JUnit**). |
-| **AI implementation**| Implementing LLM APIs, and intelligent workflows to enhance automation and decision-making in production systems. |
+| **Frontend** | Build performant and accessible frontends with **JavaScript/TypeScript, React, Vue,** and **Redux**. |
+| **Reliability & QA**| Improve system reliability with monitoring, observability, and automated testing (**Pytest, Cypress, JUnit, Selenium**). |
+| **AI implementation**| Implementing **LLM APIs, and intelligent workflows** to enhance **automation** and **decision-making** in production systems. |
 
 ---
 
 ## 🧰 Technical Stack at a Glance
 
 * **Languages:** Java, Python, PHP, JavaScript, TypeScript
-* **Backend:** Spring Boot, FastAPI, Django, Laravel
+* **Backend:** Spring Boot, FastAPI, Django, Laravel, Adobe commerce (Magento)
 * **Frontend:** React, Vue, Redux, GraphQL
-* **Cloud & Infra:** AWS (EC2, Lambda, DynamoDB, RDS), Azure, Terraform, CloudFormation
+* **Cloud & Infra:** AWS, Azure, Terraform, CloudFormation
 * **AI / ML:** LLM APIs, Prompt Engineering, Agentic AI frameworks, Multi-Agent Systems
-* **DevOps:** Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD
+* **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, GitLab CI/CD
 * **Databases & Cache:** PostgreSQL, MySQL, Redis
-* **Testing & QA:** Pytest, Jest, Cypress, JUnit, PHPUnit
+* **Testing & QA:** Selenium, Pytest, Jest, Cypress, JUnit, PHPUnit
 * **AI IDEs:** Cursor, Google Antigravity, Qoder 
 
 ---
@@ -59,7 +59,7 @@ My approach ensures reliable delivery and maintainable codebases:
 
 ## 📫 Get in Touch
 
-I am actively seeking **Full-Time Software Developer** opportunities where I can contribute my skills in Cloud engineering and leverage my passion for building robust software.
+I am actively seeking **Full-Time Software Developer/ Software Engineer** opportunities where I can contribute my skills in Cloud engineering, AI/ML, Development and leverage my passion for building robust software.
 
 * **LinkedIn:** [Shubham Jethva](https://www.linkedin.com/in/shubham-jethva-835b771b1/)
 * **Email:** [Send me an email](mailto:shubhamjethva92@gmail.com)
