@@ -1,7 +1,8 @@
 # Hi, I’m Shubham 👋
-### **Passionate Software Developer · Full-Stack & Cloud Engineer | agentic AI & Multi Agent Systems**
+### **Passionate Software Developer · Full-Stack & Cloud Engineer . agentic AI & Multi Agent Systems**
 
 I build **scalable, maintainable, production-ready applications** and reliable cloud infrastructure. I focus on **automation, test-driven development, and clean code** to deliver resilient solutions that solve real problems.
+
 ---
 
 ## 🔭 About Me & My Value
