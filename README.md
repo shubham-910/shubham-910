@@ -39,9 +39,9 @@ I provide full lifecycle engineering expertise, bridging development and operati
 * **Cloud & Infra:** AWS, Azure, Terraform, CloudFormation
 * **AI / ML:** LLM APIs, Prompt Engineering, Agentic AI frameworks, Multi-Agent Systems
 * **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, GitLab CI/CD
-* **Databases & Cache:** PostgreSQL, MySQL, Redis
+* **Databases & Cache:** PostgreSQL, MySQL, Redis, Supabase
 * **Testing & QA:** Selenium, Pytest, Jest, Cypress, JUnit, PHPUnit
-* **AI IDEs:** Cursor, Google Antigravity, Qoder 
+* **AI IDEs:** Cursor, Google Antigravity, Qoder, Claude
 
 ---
 
